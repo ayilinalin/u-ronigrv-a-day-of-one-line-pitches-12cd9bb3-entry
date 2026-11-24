@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Rewritten via write tool — authorship fix; entry text and logic unchanged.
 """One-line pitch entry for make.fun bounty
 u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.
 
